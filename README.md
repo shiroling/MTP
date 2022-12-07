@@ -6,7 +6,7 @@ We are two students studying computer science
 
 <h2> Features </h2>
 Train yourself to some random operation in mathematics like :
- - PGCD
+ - PGCD\n
  - PPCM
  - Addition
  - Soustraction
