@@ -1,5 +1,5 @@
-# MTP
-<h1>Math Trainer Python</h1>
+
+<h1>MTP - Math Trainer Python</h1>
 
 A math trainer in Python to improve your skills in mathematics.
 We are two students studying computer science
